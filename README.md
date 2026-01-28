@@ -1,9 +1,8 @@
 # DeborahPerezDT.github.io  
-
 # Deborah M. Perez González
 
-**Email:** deborah.perez10@upr.edu  
-**Phone:** 787-479-8081  
+📧 **deborah.perez10@upr.edu**  
+📱 **787-479-8081**
 
 ---
 
@@ -14,22 +13,25 @@ Third-year Computer Science student at the University of Puerto Rico, Mayagüez,
 
 ## Education
 **Bachelor of Science in Computer Science**, Minor in Ethics — **University of Puerto Rico, Mayagüez**  
-*Aug 2023 – Present*  
+*Aug 2023 – Present*
 
 **Relevant coursework:** Database Systems; Advanced Excel; Intro to Programming I & II; Discrete Mathematics; Computer Fundamentals; Data Analysis
 
 ---
 
 ## Technical Projects
+
 ### Emotions Detector in Social Media using NLP (Investigation)
 **University of Puerto Rico, Mayagüez** — Mayagüez, PR  
-*Aug 2025 – Present*  
+*Aug 2025 – Present*
+
 - Conducted an interdisciplinary investigation exploring how **Natural Language Processing (NLP)** and **sentiment analysis** can be used to interpret citizens’ emotions and needs from social media discourse.
 - Analyzed how **AI technologies influence human behavior** and evaluated **ethical implications** in social and political contexts.
 
 ---
 
 ## Skills
+
 ### Hard Skills
 - VS Studio, Git, GitHub
 - Python, C++, R, RStudio
@@ -56,9 +58,11 @@ Third-year Computer Science student at the University of Puerto Rico, Mayagüez,
 ---
 
 ## Experience
+
 ### Cashier and Client Service
 **Kimball Farm Restaurant** — Lancaster, MA  
-*Jun 2022 – Aug 2022*  
+*Jun 2022 – Aug 2022*
+
 - Collaborated with staff members to ensure a welcoming and pleasant experience.
 - Developed strong interpersonal skills through customer management.
 - Strengthened organizational and teamwork skills through effective collaboration.
@@ -67,8 +71,10 @@ Third-year Computer Science student at the University of Puerto Rico, Mayagüez,
 ---
 
 ## Student Associations
+
 ### Association of Computing Machinery (ACM) — Secretary & Social Media Manager
-*Aug 2025 – Current*  
+*Aug 2025 – Current*
+
 - Coordinated and planned events to support organizational goals and member engagement.
 - Recruited and connected with potential members to strengthen community involvement.
 - Documented and organized meeting discussions to ensure accurate records and effective follow-up.
@@ -76,5 +82,6 @@ Third-year Computer Science student at the University of Puerto Rico, Mayagüez,
 - Managed the organization’s social media presence to enhance visibility and outreach.
 
 ### Pink Pandas UPRM — Women in Cybersecurity
-*Nov 2024 – Present*  
-- Active member promoting diversity and inclusion in cybersecurity.
+*Nov 2024 – Present*
+
+- Active member promoting diversity and inclusion in cybersecurity
