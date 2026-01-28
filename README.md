@@ -1,8 +1,7 @@
 # DeborahPerezDT.github.io  
 # Deborah M. Perez González
 
-📧 **deborah.perez10@upr.edu**  
-📱 **787-479-8081**
+ **deborah.perez10@upr.edu**  
 
 ---
 
