@@ -1,86 +1,188 @@
-# DeborahPerezDT.github.io  
 # Deborah M. Perez González
 
- **deborah.perez10@upr.edu**  
+### Computer Science Student | Data Analytics | Research | Ethical Technology
+
+**Email:** deborah.perez10@upr.edu
 
 ---
 
-## Objective
-Third-year Computer Science student at the University of Puerto Rico, Mayagüez, minoring in Ethics. Passionate about data analytics, research methodologies, cybersecurity, and the ethical applications of technology. Seeking an internship or research opportunity to apply computational and analytical skills in data-driven projects and interdisciplinary environments.
+## About Me
+
+I am a third-year Computer Science student at the **University of Puerto Rico, Mayagüez**, pursuing a minor in **Professional Ethics**.
+
+My interests include **data analytics, computational research, and the ethical application of technology**. I am particularly interested in using computational and analytical methods to examine real-world problems while considering the social and ethical implications of technological systems.
+
+I am currently seeking internship and research opportunities where I can apply and further develop my programming, analytical, and research skills.
 
 ---
 
 ## Education
-**Bachelor of Science in Computer Science**, Minor in Ethics — **University of Puerto Rico, Mayagüez**  
-*Aug 2023 – Present*
 
-**Relevant coursework:** Database Systems; Advanced Excel; Intro to Programming I & II; Discrete Mathematics; Computer Fundamentals; Data Analysis
+### University of Puerto Rico, Mayagüez
 
----
+**Bachelor of Science in Computer Science**  
+**Minor in Professional Ethics**
 
-## Technical Projects
+August 2023 – Expected December 2027  
+**Current GPA:** 3.68
 
-### Emotions Detector in Social Media using NLP (Investigation)
-**University of Puerto Rico, Mayagüez** — Mayagüez, PR  
-*Aug 2025 – Present*
+### Relevant Coursework
 
-- Conducted an interdisciplinary investigation exploring how **Natural Language Processing (NLP)** and **sentiment analysis** can be used to interpret citizens’ emotions and needs from social media discourse.
-- Analyzed how **AI technologies influence human behavior** and evaluated **ethical implications** in social and political contexts.
+- Introduction to Programming I & II
+- Data Structures
+- Programming Languages
+- Data Analysis
+- Discrete Mathematics
+- Computer Fundamentals
+- Computer Ethics
+- Advanced Excel
 
----
+**Currently Enrolled:**
+- Computing Algorithms
+- Applied Machine Learning
+- Computer Engineering
 
-## Skills
+### Achievements
 
-### Hard Skills
-- VS Studio, Git, GitHub
-- Python, C++, R, RStudio
-- Basic Hardware
-- Excel Pivot Tables, Power Automate
-- Microsoft Word, PowerPoint
-- Microsoft Hub Administration
-- Fluent in Spanish and English
-
-### Soft Skills
-- Analytical & critical thinking
-- Adaptability, teamwork, fast learner
-- Strong interpersonal skills
-- Time management
-- Ethical decision-making
-- Initiative, interdisciplinary collaboration
+- **ASSETS-NSF Scholarship — 2024**
+- **Lilly Make Life Better — 2025–2026 SCIENCE!**
 
 ---
 
-## Achievements
-- **ASSETS-NSF Scholarship (2024)**
-- **Lilly Make Life Better (2025–2026) — SCIENCE!**
+## Technical Skills
+
+**Programming Languages:** Python, C++, R
+
+**Development & Data Tools:** Git, GitHub, VS Code, RStudio, Excel (PivotTables), Power Automate
+
+**Additional Tools:** Adobe Creative Suite
+
+**Languages:** Spanish (Fluent), English (Fluent)
 
 ---
 
-## Experience
+# Projects
 
-### Cashier and Client Service
-**Kimball Farm Restaurant** — Lancaster, MA  
-*Jun 2022 – Aug 2022*
+## Smart Academic Task Planner | C++
 
-- Collaborated with staff members to ensure a welcoming and pleasant experience.
-- Developed strong interpersonal skills through customer management.
-- Strengthened organizational and teamwork skills through effective collaboration.
-- Adapted to working in a professional and service environment.
+**January 2026 – June 2026**
+
+**Technologies:** C++  
+**Concepts:** Data Structures, File I/O, Graphs, Hashing, Task Management
+
+Developed an academic task-management application in C++ as part of a Data Structures course project.
+
+### Key Features & Implementation
+
+- Developed functionality for creating, organizing, searching, and managing academic tasks.
+- Implemented **linked lists** to manage task records.
+- Used **stacks** to maintain action history.
+- Implemented **queues** to manage pending tasks using FIFO behavior.
+- Used a **hash table** to support efficient task lookup.
+- Represented relationships and dependencies between tasks using **graphs**.
+- Implemented **file persistence** to store and retrieve task and dependency data across program sessions.
+
+<!-- Add repository link when ready:
+[View Project](YOUR-REPOSITORY-LINK)
+-->
 
 ---
 
-## Student Associations
+## Social Media Emotion Analysis | NLP & Sentiment Analysis
 
-### Association of Computing Machinery (ACM) — Secretary & Social Media Manager
-*Aug 2025 – Current*
+**August 2025 – December 2025**
 
-- Coordinated and planned events to support organizational goals and member engagement.
-- Recruited and connected with potential members to strengthen community involvement.
-- Documented and organized meeting discussions to ensure accurate records and effective follow-up.
-- Created promotional flyers to advertise ongoing events and club updates.
-- Managed the organization’s social media presence to enhance visibility and outreach.
+**Areas:** Natural Language Processing, Sentiment Analysis, AI Ethics, Computational Research
 
-### Pink Pandas UPRM — Women in Cybersecurity
-*Nov 2024 – Present*
+Interdisciplinary research examining how computational analysis of social media discourse could provide insight into citizens' emotions, concerns, and needs.
 
-- Active member promoting diversity and inclusion in cybersecurity
+### Research Focus
+
+- Analyzed social media discourse using **Natural Language Processing (NLP)** and sentiment-analysis concepts to investigate patterns in community emotions, concerns, and needs.
+- Investigated existing NLP and sentiment-analysis approaches for interpreting emotional patterns in online discourse.
+- Examined limitations of traditional emotion classification, particularly the loss of contextual information when emotions are reduced to broad categories.
+- Explored how contextual factors can influence the interpretation of sentiment surrounding social and political events.
+- Investigated how large volumes of **unstructured social media content** could be transformed into useful information.
+- Examined ethical considerations surrounding AI-based emotion analysis, including **privacy, consent, bias, cultural differences, and reliability**.
+- Synthesized research to evaluate the potential applications and limitations of computational approaches to interpreting human communication.
+
+---
+
+## Statistical Data Analysis | R & RStudio
+
+**August 2025 – December 2025**
+
+**Technologies:** R, RStudio, R Markdown  
+**Concepts:** Data Analysis, Descriptive Statistics, Statistical Inference, Data Visualization
+
+Completed statistical analyses using R and RStudio with an emphasis on interpreting real-world datasets and communicating results.
+
+### Key Skills Applied
+
+- Cleaned, manipulated, and analyzed datasets using **R**.
+- Applied **descriptive statistics** to summarize and interpret data.
+- Used statistical measures such as means, variance, and standard error to examine patterns within datasets.
+- Applied concepts from **statistical inference** to data-analysis problems.
+- Created visualizations to support the interpretation and communication of results.
+- Developed custom R functions for statistical and data-processing tasks.
+- Produced **reproducible analyses using R Markdown**, integrating code, results, and written interpretation.
+
+---
+
+# Professional Experience
+
+## Education & Outreach Assistant
+
+**Red Sísmica de Puerto Rico**  
+Mayagüez, Puerto Rico  
+**January 2026 – Present**
+
+- Collaborate with the Education Department on **public education and outreach initiatives** related to earthquakes, tsunamis, seismic activity, and emergency preparedness.
+- Translate technical seismic and tsunami information into accessible educational content for diverse audiences.
+- Develop and manage digital content across social media platforms as part of broader public-education initiatives.
+- Contributed to **over 70% growth in social media following** through consistent educational content strategy, outreach, and audience engagement.
+- Support educational campaigns and public-facing communication designed to improve awareness of seismic and tsunami hazards.
+
+---
+
+# Leadership & Involvement
+
+## Association of Computing Machinery (ACM)
+
+### Vice President
+**August 2026 – Present**
+
+### Secretary & Social Media Manager
+**August 2025 – August 2026**
+
+- Coordinate organizational activities, events, and member-engagement initiatives.
+- Support recruitment and communication efforts to strengthen student participation.
+- Collaborate with the executive board on organizational planning and operations.
+- Previously maintained organizational records and supported communication and promotional activities as Secretary and Social Media Manager.
+
+---
+
+## Pink Pandas UPRM — Women in Cybersecurity
+
+**November 2024 – Present**
+
+Active member of the Women in Cybersecurity organization at UPRM.
+
+---
+
+## Current Interests
+
+- Data Analytics
+- Computational Research
+- Machine Learning
+- Natural Language Processing
+- Software Development
+- Technology and AI Ethics
+
+---
+
+## Contact
+
+I am currently open to internship and undergraduate research opportunities.
+
+**Email:** deborah.perez10@upr.edu
