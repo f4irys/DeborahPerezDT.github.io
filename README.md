@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a third-year Computer Science student at the **University of Puerto Rico, Mayagüez**, pursuing a minor in **Professional Ethics**.
+I am a fourth-year Computer Science student at the **University of Puerto Rico, Mayagüez**, pursuing a minor in **Professional Ethics**.
 
 My interests include **data analytics, computational research, and the ethical application of technology**. I am particularly interested in using computational and analytical methods to examine real-world problems while considering the social and ethical implications of technological systems.
 
